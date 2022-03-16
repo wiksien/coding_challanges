@@ -1,4 +1,4 @@
-# Welcome to my coding_challanges
+# Welcome to my coding_challanges 🎉
 I created this repo to store all of my solutions for coding problems I did. 📚
 
 Every file is named after a challange. Each file contains the date of solving the problem and of course the solution itself.
